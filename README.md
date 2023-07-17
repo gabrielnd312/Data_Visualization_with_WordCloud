@@ -16,4 +16,4 @@ For this, after cleaning the data and filtering, these words are counted and the
 
 To learn a little more about this, as well as a real example and customization methods, please see the **Medium** article and the full code documentation on **Google Colab**.
 
-# Link to the article of this project on Medium: https://medium.com/@gabrielnduarte/data-visualization-with-word-cloud-53b008a13f5a
+Link to the article of this project on Medium: https://medium.com/@gabrielnduarte/data-visualization-with-word-cloud-53b008a13f5a
