@@ -2,7 +2,7 @@
 [![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
 # word_cloud
 <p align="center">
-  <img src="wordcloud_ab", width=70% >
+  <img src="wordcloud_ab.png", width=70% >
 </p>
 
 **Hello!**
